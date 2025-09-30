@@ -1,0 +1,191 @@
+*{
+	font-family:Lucida Console;
+}
+
+body{
+	background-color:#CFE0F7
+}
+
+h1{
+	font-family:Lucida Console;
+}
+
+h2{
+	font-family:Arial,Verdana,sans-serif;
+	color:#f42a20;
+	font-size:125%;
+}
+
+b{
+	color:#FF6464;
+}
+
+pb{
+	color:blue !important;
+}
+
+pb{
+	color:violet;
+}
+
+p{
+	font-size: 120%;
+}
+
+
+#topbanner{
+position: relative;
+  margin-left: auto;
+  margin-right: auto;
+background-color:#7A7892;
+height: auto;
+padding: 5px;
+margin: auto;
+color: #5FE19A;
+border-radius: 100px;
+font-size:90%;
+text-align: center;
+}
+
+#main{
+position: relative;
+margin-left: auto;
+margin-right: auto;
+background-color:#7A7892;
+padding:20px;
+color: #5FE19A;
+border-radius: 100px;
+}
+
+#essay{
+float: right;
+width: 40%;
+color: black;
+margin-left: auto;
+margin-right: auto;
+background-color:#DFE0F7;
+border: 2px solid black;
+padding: 30px;
+border-radius: 50px;
+font-size:80%;
+}
+
+#essay2{
+float: right;
+width: 50%;
+color: black;
+margin-left: auto;
+margin-right: auto;
+background-color:#DFE0F7;
+border: 2px solid black;
+padding: 30px;
+border-radius: 50px;
+font-size:90%;
+}
+
+#essay3{
+float: right;
+width: 50%;
+color: black;
+margin-left: auto;
+margin-right: auto;
+background-color:#DFE0F7;
+border: 2px solid black;
+padding: 30px;
+border-radius: 50px;
+font-size:80%;
+}
+
+#pics{
+position: relative;
+left: 35px;
+width:30%;
+margin-left: 20px;
+margin-right: 20px;
+background-color:#7A7892;
+color: #5FE19A;
+}
+
+#pics2{
+width:25%;
+position: relative;
+margin-left: 20px;
+margin-right: 20px;
+color: #5FE19A;
+}
+
+#foot{
+padding: 25px;
+color: #11119A;
+border: 3px solid #11119A;
+background-color:#7f8892;
+margin:50px;
+width: calc(30% + 0px);
+border-radius:25px;
+font-size:70%;
+}
+
+#body{
+width: 80%;
+color: black;
+margin-left: auto;
+margin-right: auto;
+background-color:#DFE0F7;
+border: 2px solid black;
+padding: 30px;
+border-radius: 50px;
+}
+
+.title2{
+color: #fDF19A;
+font-family: times;
+}
+
+.clearleft {
+clear: left;
+margin-left: 40px;
+}
+
+.float {
+float: left;
+margin-bottom: 40px;
+}
+
+ul.navbar {
+font-size:125%;
+list-style-type: none;
+padding: 10px;
+margin-bottom: 40px;
+position: relative;
+top: 1em;
+left: 1em;
+width: auto;
+}
+
+table.tab{
+text-align: center;
+margin:10px;
+}
+
+ul.battery {
+list-style-image:url("images/batteryPoint.png");
+list-style-position: outside;
+}
+
+button[type=submit] {
+  background-color: #5FE19A;
+  color: black;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button[type=submit]:hover {
+  background-color: #F5E19A;
+}
+
+label {
+  display: block;
+  margin-top: 1rem;
+}
